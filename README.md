@@ -35,7 +35,7 @@ Partie3_sans_convo
 
 # Capture
 ![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_model.png?raw=true)
-![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_4.png?raw=true)
+![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_4.JPG?raw=true)
 ![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_1.png?raw=true)
 ![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/adam_sigmoid_0.01_30x.JPG?raw=true)
 ![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/adam_relu_0.01_30x_(softmax).JPG?raw=true)
