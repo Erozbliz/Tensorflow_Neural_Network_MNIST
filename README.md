@@ -34,7 +34,9 @@ Partie3_sans_convo
 <br/>https://www.tensorflow.org/get_started/graph_viz
 
 # Capture
-![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_model.JPG?raw=true)
-![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_4.JPG?raw=true)
-![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_1.JPG?raw=true)
-![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/3LAYERS_adam sigmoid_0.001_30x (softmax).JPG?raw=true)
+![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_model.png?raw=true)
+![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_4.png?raw=true)
+![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_1.png?raw=true)
+![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/adam_sigmoid_0.01_30x.JPG?raw=true)
+![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/adam_relu_0.01_30x_(softmax).JPG?raw=true)
+![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/adam%20sigmoid%200.01%2060x%20(softmax)%20128.JPG?raw=true)
