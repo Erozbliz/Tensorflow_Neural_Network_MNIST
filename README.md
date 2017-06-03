@@ -3,25 +3,25 @@ Tensorflow MNIST with CNN (convolutional neural network) and MLP (Multilayer Per
 
 # Method
 Partie1.py
-MNIST For ML Beginners
+<br/>MNIST For ML Beginners
 
 Partie2.py
-MLP : Multi-Layer Perceptron 
-(Multilayer Perceptron with 2 Hidden Layers )
+<br/>MLP : Multi-Layer Perceptron 
+<br/>(Multilayer Perceptron with 2 Hidden Layers )
 
 Partie3_convo.py
-Deep MNIST for Experts
-Reseau a architecture profonde utilisation de CNN
-CNN : Convulution Neural Network
+<br/>Deep MNIST for Experts
+<br/>Reseau a architecture profonde utilisation de CNN
+<br/>CNN : Convulution Neural Network
 
 Partie3_sans_convo
-MLP : Multi-Layer Perceptron, Deep Learning
-(Multilayer Perceptron avec 3 couches cachees )
+<br/>MLP : Multi-Layer Perceptron, Deep Learning
+<br/>(Multilayer Perceptron avec 3 couches cachees )
 
 ...Visual..Py
-Tensorboard
-1 - Exécuter la commande "tensorboard --logdir=/tmp/tensorflow_logs"
-2 - Ce rendre sur l'url qui s'affiche pour visualiser notre simulation (Graphique des champs récepteurs...)
+<br/>Tensorboard
+<br/>1 - Exécuter la commande "tensorboard --logdir=/tmp/tensorflow_logs"
+<br/>2 - Ce rendre sur l'url qui s'affiche pour visualiser notre simulation (Graphique des champs récepteurs...)
 
 # Links
 <br/>MNIST For ML Beginners
@@ -33,4 +33,8 @@ Tensorboard
 <br/>TensorBoard: Graph Visualization
 <br/>https://www.tensorflow.org/get_started/graph_viz
 
-#Capture
+# Capture
+![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_model.JPG?raw=true)
+![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_4.JPG?raw=true)
+![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/CNN_1.JPG?raw=true)
+![alt tag](https://github.com/Erozbliz/Tensorflow_Neural_Network_MNIST/blob/master/Capture/3LAYERS_adam sigmoid_0.001_30x (softmax).JPG?raw=true)
